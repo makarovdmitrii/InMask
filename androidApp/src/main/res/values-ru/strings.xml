@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InMask</string>
+    <string name="welcome_text">Привет InMask</string>
+    <string name="welcome_text2">Добро пожаловать в InMask</string>
+</resources>

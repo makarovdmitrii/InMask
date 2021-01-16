@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">InMask</string>
-    <string name="welcome_text">Hello InMask</string>
     <string name="welcome_text2">Welcome to InMask</string>
+    <string name="welcome_text">Hello InMask</string>
 </resources>

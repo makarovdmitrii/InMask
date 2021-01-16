@@ -1,0 +1,2 @@
+com/example/inmask/shared/BuildConfig.java
+ com.example.inmask.shared.BuildConfig

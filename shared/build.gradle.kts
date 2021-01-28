@@ -45,6 +45,7 @@ android {
         minSdkVersion(24)
         targetSdkVersion(29)
     }
+    ndkVersion = "21.3.6528147"
 }
 
 val packForXcode by tasks.creating(Sync::class) {

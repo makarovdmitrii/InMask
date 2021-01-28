@@ -1,0 +1,2 @@
+com/example/inmask/androidApp/BuildConfig.java
+ com.example.inmask.androidApp.BuildConfig

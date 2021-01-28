@@ -1,3 +1,5 @@
+val InMask by extra("com.example.inmask.androidApp")
+//val InMask by extra(InMask)
 buildscript {
     repositories {
         gradlePluginPortal()

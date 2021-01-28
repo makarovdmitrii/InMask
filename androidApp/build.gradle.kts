@@ -24,4 +24,10 @@ android {
             isMinifyEnabled = false
         }
     }
+    externalNativeBuild {
+        cmake {
+            path = file("../CMakeLists.txt")
+        }
+    }
+    ndkVersion = "22.0.7026061"
 }

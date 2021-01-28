@@ -6,7 +6,7 @@ INJECTED from D:\InMask\InMask\androidApp\src\main\AndroidManifest.xml:2:1-14:12
 INJECTED from D:\InMask\InMask\androidApp\src\main\AndroidManifest.xml:2:1-14:12
 MERGED from [:shared] D:\InMask\InMask\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\89333baab3abf99902109d0c8d7e2876\material-1.2.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\a15b61d47a0ada260283414f7668e42b\constraintlayout-2.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\0e445a0d222e9a8a260d1262703d4eca\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\a9dc6a8738b4e6bfbbce37f0b28b12d0\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\4c6c11ebbe6c643d3f1d207433caa2ab\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\57fdd6d2309062ca95362e37bd698c3d\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -54,8 +54,8 @@ application
 ADDED from D:\InMask\InMask\androidApp\src\main\AndroidManifest.xml:3:5-13:19
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\89333baab3abf99902109d0c8d7e2876\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\89333baab3abf99902109d0c8d7e2876\material-1.2.1\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\a15b61d47a0ada260283414f7668e42b\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\a15b61d47a0ada260283414f7668e42b\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\0e445a0d222e9a8a260d1262703d4eca\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\0e445a0d222e9a8a260d1262703d4eca\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.3.1] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\ee7669a4a6eb8aa78558232a6b90114a\core-1.3.1\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.3.1] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\ee7669a4a6eb8aa78558232a6b90114a\core-1.3.1\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\7c8f205d209e29acf0a4015c4979a57a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
@@ -90,8 +90,8 @@ MERGED from [:shared] D:\InMask\InMask\shared\build\intermediates\library_manife
 MERGED from [:shared] D:\InMask\InMask\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\89333baab3abf99902109d0c8d7e2876\material-1.2.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\89333baab3abf99902109d0c8d7e2876\material-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\a15b61d47a0ada260283414f7668e42b\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\a15b61d47a0ada260283414f7668e42b\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\0e445a0d222e9a8a260d1262703d4eca\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\0e445a0d222e9a8a260d1262703d4eca\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\a9dc6a8738b4e6bfbbce37f0b28b12d0\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\a9dc6a8738b4e6bfbbce37f0b28b12d0\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dmitrii\.gradle\caches\transforms-2\files-2.1\4c6c11ebbe6c643d3f1d207433caa2ab\cardview-1.0.0\AndroidManifest.xml:20:5-44
